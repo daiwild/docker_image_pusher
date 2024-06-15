@@ -1,5 +1,1 @@
-nginx
-gitlab/gitlab-ce
-mysql:8
-openjdk:8
-maven:3-jdk-8-slim
+ mailbyms/mvnd
