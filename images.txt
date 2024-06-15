@@ -1,4 +1,4 @@
 nginx
-gitlab
+gitlab/gitlab-ce
 #支持指定架构
 --platform=linux/arm64
