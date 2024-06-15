@@ -1,1 +1,1 @@
- mailbyms/mvnd
+mailbyms/mvnd:0.9.0-jdk-8
