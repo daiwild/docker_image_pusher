@@ -1,1 +1,2 @@
-mailbyms/mvnd:0.9.0-jdk-8
+eclipse-temurin:8-jdk-alpine
+maven:3.9.7-eclipse-temurin-11
