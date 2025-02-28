@@ -1,4 +1,4 @@
-coredns/coredns:v1.11.3
+coredns:v1.11.3
 kube-proxy:v1.32.0
 pause:3.10
 kube-apiserver:v1.32.0
