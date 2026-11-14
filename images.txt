@@ -6,6 +6,7 @@ k8s.gcr.io/kube-controller-manager:v1.32.0
 k8s.gcr.io/etcd:3.5.16-0
 k8s.gcr.io/kube-scheduler:v1.32.0
 k8s.gcr.io/k8s-minikube/storage-provisioner:v5
+grafana/alloy:v1.22.0
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
